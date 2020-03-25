@@ -1,4 +1,5 @@
 # HMI
-pip install pyautogui
+Gyroscope_mouse.py
+  pip install pyautogui
 
-pip install pyserial
+  pip install pyserial
