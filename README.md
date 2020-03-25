@@ -1,19 +1,16 @@
 # HMI
-  ```bash
-  |   README.md
-  |
-  +---Arduino
-  |   |   Arduino-MPU6050-master.zip
-  |   |
-  |   +---EMG
-  |   |       EMG.ino
-  |   |
-  |   \---Gyroscope
-  |           Gyroscope.ino
-  |
-  \---Python
-          Gyroscope_mouse.py
-  ```
+'''bash
+ .
+├── Arduino
+│   ├── Arduino-MPU6050-master.zip
+│   ├── EMG
+│   │   └── EMG.ino
+│   └── Gyroscope
+│       └── Gyroscope.ino
+├── Python
+│   └── Gyroscope_mouse.py
+└── README.md
+'''
   # Arduino/Gyroscope
     Arduino IDE -> Sketch -> Include Library -> Add .ZIP Library -> Arduino-MPU6050-master.zip
   # Python/Gyroscope_mouse.py
