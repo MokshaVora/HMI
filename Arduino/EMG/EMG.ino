@@ -1,14 +1,15 @@
+int analogPin = A7;
 void setup() 
 {
   Serial.begin(9600);
-  pinMode(A7,INPUT);
+  pinMode(analogPin,INPUT);
 }
 void loop() 
 {
   long sum = 0;
   for(int i = 0 ; i < 500 ; i++)
   {
-    sum += analogRead(A7);
+    sum += analogRead(analogPin);
   }
   long temp = sum/500;
   Serial.println(temp);
