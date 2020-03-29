@@ -25,4 +25,4 @@
     2. Gyroscope MPU6050
     3. Arduino Nano
 # Output (Gyroscope)
-  ![](images/gyro.png)
+  ![](images/gyro.PNG)
