@@ -25,10 +25,10 @@
     2. Gyroscope MPU6050
     3. Arduino Nano
 # Circuit
-    Gyroscope Sensor
-    ![](images/Gyroscope_PCB.png)
-    EMG Sensor
-    ![](images/EMG_PCB.png)
+   Gyroscope Sensor
+   ![](images/Gyroscope_PCB.png)
+   EMG Sensor
+   ![](images/EMG_PCB.png)
 # Output 
-    Gyroscope
-    ![](images/Gyroscope_Output.png)
+   Gyroscope
+   ![](images/Gyroscope_Output.png)
