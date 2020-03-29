@@ -1,4 +1,4 @@
-# HMI
+# Human - Machine Interface (HMI)
 ```bash
 .
 ├── Arduino
