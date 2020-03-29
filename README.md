@@ -24,5 +24,7 @@
     1. EMG sensor
     2. Gyroscope MPU6050
     3. Arduino Nano
-# Output (Gyroscope)
+# Output 
+Gyroscope
+
   ![](images/gyro.PNG)
