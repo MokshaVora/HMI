@@ -16,3 +16,7 @@
   # Python/Gyroscope_mouse.py
     pip install pyautogui
     pip install pyserial
+  # Hardware
+    EMG sensor
+    Gyroscope MPU6050
+    Arduino Nano
