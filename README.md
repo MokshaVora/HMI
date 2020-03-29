@@ -19,12 +19,16 @@
 # Python
     pip install pyautogui
     pip install pyserial
-  Run GUI.py
+   Run GUI.py
 # Hardware
     1. EMG sensor
     2. Gyroscope MPU6050
     3. Arduino Nano
+# Circuit
+    Gyroscope Sensor
+    ![](images/Gyroscope_PCB.png)
+    EMG Sensor
+    ![](images/EMG_PCB.png)
 # Output 
-Gyroscope
-
-  ![](images/gyro.PNG)
+    Gyroscope
+    ![](images/Gyroscope_Output.png)
