@@ -17,6 +17,6 @@
     pip install pyautogui
     pip install pyserial
   # Hardware
-    EMG sensor
-    Gyroscope MPU6050
-    Arduino Nano
+    1. EMG sensor
+    2. Gyroscope MPU6050
+    3. Arduino Nano
