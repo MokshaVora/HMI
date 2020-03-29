@@ -6,16 +6,20 @@
 │   ├── EMG
 │   │   └── EMG.ino
 │   └── Gyroscope
-│       └── Gyroscope.ino
+|       └── Gyroscope.ino
 ├── Python
-│   └── Gyroscope_mouse.py
+│   ├── EMG.py
+|   ├── GUI.py
+│   ├── Gyroscope.py
+│   └── Keyboard.py
 └── README.md
 ```
-  # Arduino/Gyroscope
+  # Arduino
     Arduino IDE -> Sketch -> Include Library -> Add .ZIP Library -> Arduino-MPU6050-master.zip
-  # Python/Gyroscope_mouse.py
+  # Python
     pip install pyautogui
     pip install pyserial
+Run GUI.py
   # Hardware
     1. EMG sensor
     2. Gyroscope MPU6050
