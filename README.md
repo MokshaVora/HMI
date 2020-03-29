@@ -14,13 +14,15 @@
 │   └── Keyboard.py
 └── README.md
 ```
-  # Arduino
+# Arduino
     Arduino IDE -> Sketch -> Include Library -> Add .ZIP Library -> Arduino-MPU6050-master.zip
-  # Python
+# Python
     pip install pyautogui
     pip install pyserial
-Run GUI.py
-  # Hardware
+  Run GUI.py
+# Hardware
     1. EMG sensor
     2. Gyroscope MPU6050
     3. Arduino Nano
+# Output (Gyroscope)
+  ![](images/gyro.png)
