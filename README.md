@@ -12,6 +12,12 @@
 |   ├── GUI.py
 │   ├── Gyroscope.py
 │   └── Keyboard.py
+├── images
+│   ├── EMG_GPB.jpg
+|   ├── EMG_PCB.png
+│   ├── Gyroscope_GPB.jpg
+│   ├── Gyroscope_Output.png
+│   └── Gyroscope_PCB.png
 └── README.md
 ```
 
