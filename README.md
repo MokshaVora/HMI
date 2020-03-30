@@ -25,7 +25,7 @@
     2. Gyroscope MPU6050
     3. Arduino Nano
 # Circuit
-![](images/Gyroscope_PCB.png)
+![](images/EMG_PCB.png)
 ![](images/Gyroscope_PCB.png)
 # Output 
 Gyroscope
