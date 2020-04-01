@@ -35,10 +35,11 @@
     3. Arduino Nano
     
 # Circuit
-<img src = "images/EMG_PCB.png" width="400" height="400"/><img src = "images/EMG_GPB.jpg" width="400" height="400"/>
-
-<img src = "images/Gyroscope_PCB.png" width="400" height ="400"/><img src = "images/Gyroscope_GPB.jpg" width="400" height ="400"/>
+<img src = "images/EMG_PCB.png" width="400" height="400"/><img src = "images/Gyroscope_PCB.png" width="400" height="400"/>
 
 # Output 
 Gyroscope
 ![](images/Gyroscope_Output.png)
+
+EMG
+![](images/EMG_Output.png)
