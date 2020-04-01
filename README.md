@@ -12,12 +12,6 @@
 |   ├── GUI.py
 │   ├── Gyroscope.py
 │   └── Keyboard.py
-├── images
-│   ├── EMG_GPB.jpg
-|   ├── EMG_PCB.png
-│   ├── Gyroscope_GPB.jpg
-│   ├── Gyroscope_Output.png
-│   └── Gyroscope_PCB.png
 └── README.md
 ```
 
@@ -37,9 +31,8 @@
 # Circuit
 <img src = "images/EMG_PCB.png" width="400" height="400"/><img src = "images/Gyroscope_PCB.png" width="400" height="400"/>
 
-# Output 
-Gyroscope
+# Gyroscope(MPU6050) Output
 ![](images/Gyroscope_Output.png)
 
-EMG
+# EMG Sensor Output
 ![](images/EMG_Output.png)
