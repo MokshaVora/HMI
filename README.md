@@ -6,10 +6,10 @@
 │   ├── EMG
 │   │   └── EMG.ino
 │   └── Gyroscope
-|       └── Gyroscope.ino
+│       └── Gyroscope.ino
 ├── Python
 │   ├── EMG.py
-|   ├── GUI.py
+│   ├── GUI.py
 │   ├── Gyroscope.py
 │   └── Keyboard.py
 └── README.md
